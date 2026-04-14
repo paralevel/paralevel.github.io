@@ -1,4 +1,9 @@
 theme: minima
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-remote-theme
+
 minima:
   skin: dark
