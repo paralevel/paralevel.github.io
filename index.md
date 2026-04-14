@@ -1,4 +1,4 @@
-<meta name="color-scheme" content="dark light"/>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
 
 
 [Toggle Auto-Lock shortcut for iOS 26](https://github.com/paralevel/toggle-autolock-shortcut)
