@@ -1,3 +1,6 @@
+<meta name="color-scheme" content="dark light"/>
+
+
 [Toggle Auto-Lock shortcut for iOS 26](https://github.com/paralevel/toggle-autolock-shortcut)
 
 [Bookmark Checker shortcut for iOS 26 and macOS Tahoe 26](https://github.com/paralevel/bookmark-checker-shortcut)
