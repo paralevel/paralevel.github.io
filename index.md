@@ -36,3 +36,6 @@
 [Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls)
 
 [Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls)
+
+<br>
+<br>
