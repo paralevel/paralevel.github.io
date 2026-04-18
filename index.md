@@ -38,4 +38,3 @@
 [Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls)
 
 <br>
-<br>
