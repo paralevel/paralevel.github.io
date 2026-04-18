@@ -3,7 +3,7 @@
 
 <sup>Apr 12, 2026</sup><br>
 [Hide or show the Software Update badge in the Dock on macOS](https://github.com/paralevel/toggle-software-update-badge)
-
+<br>
 [Open tabs to the right of current tab in Safari on macOS](https://github.com/paralevel/safari-always-right-tab)
 
 <sup>Apr 11, 2026</sup><br>
@@ -23,7 +23,7 @@
 
 <sup>Sep 24, 2025</sup><br>
 [Apple app URL schemes for iOS and macOS](https://github.com/paralevel/apple-app-urls)
-
+<br>
 [Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls)
-
+<br>
 [Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls)
