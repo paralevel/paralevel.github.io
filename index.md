@@ -3,7 +3,9 @@
 
 <sup>Apr 12, 2026</sup><br>
 [Hide or show the Software Update badge in the Dock on macOS](https://github.com/paralevel/toggle-software-update-badge)
-###
+
+<p></p>
+
 [Open tabs to the right of current tab in Safari on macOS](https://github.com/paralevel/safari-always-right-tab)
 
 <sup>Apr 11, 2026</sup><br>
@@ -22,6 +24,12 @@
 [Hidden actions in Shortcuts app on iOS and macOS](https://github.com/paralevel/secret-actions-for-shortcuts)
 
 <sup>Sep 24, 2025</sup><br>
-[Apple app URL schemes for iOS and macOS](https://github.com/paralevel/apple-app-urls)<p>
-[Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls)<p>
+[Apple app URL schemes for iOS and macOS](https://github.com/paralevel/apple-app-urls)
+
+<p></p>
+
+[Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls)
+
+<p></p>
+
 [Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls)
