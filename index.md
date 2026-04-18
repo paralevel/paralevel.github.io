@@ -9,37 +9,29 @@
 
 [Open tabs to the right of current tab in Safari on macOS](https://github.com/paralevel/safari-always-right-tab)
 
-<br>
-
+\
 <sup>Apr 11, 2026</sup><br>
 [Hide the MacBook notch using AppleScript](https://github.com/paralevel/hide-the-macbook-notch)
 
-<br>
-
+\
 <sup>Apr 10, 2026</sup><br>
 [Extract iOS backup files with stock command line tools on macOS](https://github.com/paralevel/extract-ios-backups-from-terminal)
 
-<br>
-
+\
 <sup>Nov 2, 2025</sup><br>
 [Toggle Auto-Lock shortcut for iOS](https://github.com/paralevel/toggle-autolock-shortcut)
 
-<br>
-
+\
 <sup>Oct 27, 2025</sup><br>
 [Bookmark Checker shortcut for iOS and macOS](https://github.com/paralevel/bookmark-checker-shortcut)
 
-<br>
-
+\
 <sup>Oct 1, 2025</sup><br>
 [Hidden actions in Shortcuts app on iOS and macOS](https://github.com/paralevel/secret-actions-for-shortcuts)
 
-<br>
-
+\
 <sup>Sep 24, 2025</sup><br>
 [Apple app URL schemes for iOS and macOS](https://github.com/paralevel/apple-app-urls)
-
-<p></p>
 
 [Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls)
 
