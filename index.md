@@ -1,11 +1,43 @@
-[Toggle Auto-Lock shortcut for iOS 26](https://github.com/paralevel/toggle-autolock-shortcut)
+<sup>Apr 16, 2026</sup><br>
+[Access restricted files in Terminal without Full Disk Access on macOS](https://github.com/paralevel/unfull-disk-access-for-terminal)
 
-[Bookmark Checker shortcut for iOS 26 and macOS Tahoe 26](https://github.com/paralevel/bookmark-checker-shortcut)
+<br>
 
-[Collection of hidden actions in Shortcuts app on iOS 26 and macOS Tahoe 26](https://github.com/paralevel/secret-actions-for-shortcuts)
+<sup>Apr 12, 2026</sup><br>
+[Hide or show the Software Update badge in the Dock on macOS](https://github.com/paralevel/toggle-software-update-badge)
 
-[Apple app URL schemes for iOS 26 and macOS Tahoe 26](https://github.com/paralevel/apple-app-urls)
+[Open tabs to the right of current tab in Safari on macOS](https://github.com/paralevel/safari-always-right-tab)
 
-[Settings URL schemes for macOS Tahoe 26](https://github.com/paralevel/macos-settings-urls)
+<br>
 
-[Settings URL schemes for iOS 26](https://github.com/paralevel/ios-settings-urls)
+<sup>Apr 11, 2026</sup><br>
+[Hide the MacBook notch using AppleScript](https://github.com/paralevel/hide-the-macbook-notch)
+
+<br>
+
+<sup>Apr 10, 2026</sup><br>
+[Extract iOS backup files with stock command line tools on macOS](https://github.com/paralevel/extract-ios-backups-from-terminal)
+
+<br>
+
+<sup>Nov 2, 2025</sup><br>
+[Toggle Auto-Lock shortcut for iOS](https://github.com/paralevel/toggle-autolock-shortcut)
+
+<br>
+
+<sup>Oct 27, 2025</sup><br>
+[Bookmark Checker shortcut for iOS and macOS](https://github.com/paralevel/bookmark-checker-shortcut)
+
+<br>
+
+<sup>Oct 1, 2025</sup><br>
+[Hidden actions in Shortcuts app on iOS and macOS](https://github.com/paralevel/secret-actions-for-shortcuts)
+
+<br>
+
+<sup>Sep 24, 2025</sup><br>
+[Apple app URL schemes for iOS and macOS](https://github.com/paralevel/apple-app-urls)
+
+[Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls)
+
+[Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls)
