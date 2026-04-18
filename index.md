@@ -1,7 +1,7 @@
 <sup>Apr 16, 2026</sup><br>
 [Access restricted files in Terminal without Full Disk Access on macOS](https://github.com/paralevel/unfull-disk-access-for-terminal)
-
 <br>
+
 <sup>Apr 12, 2026</sup><br>
 [Hide or show the Software Update badge in the Dock on macOS](https://github.com/paralevel/toggle-software-update-badge)
 
