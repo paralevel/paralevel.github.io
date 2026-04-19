@@ -4,10 +4,11 @@
 [Modify protected files in macOS Terminal without having Full Disk Access](https://github.com/paralevel/unfull-disk-access-for-terminal)
 
 <sub>Apr 12, 2026</sub>
-
+~~~{: style="line-height: 0.5"}
 [Hide or show the Software Update badge in the Dock on macOS](https://github.com/paralevel/toggle-software-update-badge)
 
 [Open tabs to the right of current tab in Safari on macOS](https://github.com/paralevel/safari-always-right-tab)
+~~~
 
 <sub>Apr 11, 2026</sub>
 
@@ -31,8 +32,8 @@
 
 <sub>Sep 24, 2025</sub>
 
-[Apple app URL schemes for iOS and macOS](https://github.com/paralevel/apple-app-urls){: style="line-height: 1.5"}<br>
-[Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls){: style="line-height: 1.5"}<br>
-[Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls){: style="line-height: 1.5"}<br>
+[Apple app URL schemes for iOS and macOS](https://github.com/paralevel/apple-app-urls){: style="line-height: 0.5"}<br>
+[Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls){: style="line-height: 0.5"}<br>
+[Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls){: style="line-height: 0.5"}<br>
 
 <br>
