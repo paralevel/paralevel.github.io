@@ -38,3 +38,5 @@
 [Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls)
 
 <br>
+
+This is *aqua*{: style="color: aqua"} by Span IAL.
