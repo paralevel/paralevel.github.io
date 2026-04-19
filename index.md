@@ -10,6 +10,9 @@
   <a href="https://github.com/paralevel/safari-always-right-tab">Open tabs to the right of current tab in Safari on macOS</a>
   <br>
 </div>
+[Hide the MacBook notch using AppleScript](https://github.com/paralevel/hide-the-macbook-notch)
+
+[Hide the MacBook notch using AppleScript](https://github.com/paralevel/hide-the-macbook-notch)
 
 <sub>Apr 11, 2026</sub>
 
