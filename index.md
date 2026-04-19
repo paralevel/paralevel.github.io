@@ -2,13 +2,10 @@
 <sup>Apr 16, 2026</sup><br>
 [Modify protected files in macOS Terminal without having Full Disk Access](https://github.com/paralevel/unfull-disk-access-for-terminal)
 
-<sup>Apr 12, 2026</sup>
-<div style="line-height: 2">
-  <a href="https://github.com/paralevel/toggle-software-update-badge">Hide or show the Software Update badge in the Dock on macOS</a>
-  <br>
-  <a href="https://github.com/paralevel/safari-always-right-tab">Open tabs to the right of current tab in Safari on macOS</a>
-  <br>
-</div>
+<sup>Apr 12, 2026</sup><br>
+[Hide or show the Software Update badge in the Dock on macOS](https://github.com/paralevel/toggle-software-update-badge)</a>
+
+[Open tabs to the right of current tab in Safari on macOS](https://github.com/paralevel/safari-always-right-tab)</a>
 
 <sup>Apr 11, 2026</sup><br>
 [Hide the MacBook notch using AppleScript](https://github.com/paralevel/hide-the-macbook-notch)
@@ -26,10 +23,10 @@
 [Hidden actions in Shortcuts app on iOS and macOS](https://github.com/paralevel/secret-actions-for-shortcuts)
 
 <sup>Sep 24, 2025</sup><br>
-[Apple app URL schemes for iOS and macOS](https://github.com/paralevel/apple-app-urls){: style="line-height: 2"}
+[Apple app URL schemes for iOS and macOS](https://github.com/paralevel/apple-app-urls)
 
-[Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls){: style="line-height: 2"}
+[Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls)
 
-[Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls){: style="line-height: 2"}
+[Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls)
 
 <br>
