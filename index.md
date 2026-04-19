@@ -3,9 +3,9 @@
 [Modify protected files in macOS Terminal without having Full Disk Access](https://github.com/paralevel/unfull-disk-access-for-terminal)
 
 <sup>Apr 12, 2026</sup><br>
-[Hide or show the Software Update badge in the Dock on macOS](https://github.com/paralevel/toggle-software-update-badge)</a>
+[Hide or show the Software Update badge in the Dock on macOS](https://github.com/paralevel/toggle-software-update-badge)
 
-[Open tabs to the right of current tab in Safari on macOS](https://github.com/paralevel/safari-always-right-tab)</a>
+[Open tabs to the right of current tab in Safari on macOS](https://github.com/paralevel/safari-always-right-tab)
 
 <sup>Apr 11, 2026</sup><br>
 [Hide the MacBook notch using AppleScript](https://github.com/paralevel/hide-the-macbook-notch)
