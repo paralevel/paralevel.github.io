@@ -4,10 +4,12 @@
 [Modify protected files in macOS Terminal without having Full Disk Access](https://github.com/paralevel/unfull-disk-access-for-terminal)
 
 <sub>Apr 12, 2026</sub>
-~~~{: style="line-height: 0.5"}
+<div style="line-height: 0.5">
 [Hide or show the Software Update badge in the Dock on macOS](https://github.com/paralevel/toggle-software-update-badge)
 
 [Open tabs to the right of current tab in Safari on macOS](https://github.com/paralevel/safari-always-right-tab)
+</div>
+
 ~~~
 
 <sub>Apr 11, 2026</sub>
