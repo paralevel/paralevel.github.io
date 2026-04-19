@@ -2,7 +2,7 @@
 <sup>Apr 16, 2026</sup><br>
 [Modify protected files in macOS Terminal without having Full Disk Access](https://github.com/paralevel/unfull-disk-access-for-terminal)
 
-<sup>Apr 12, 2026</sup><br>
+<sup>Apr 12, 2026</sup>
 <div style="line-height: 2">
   <a href="https://github.com/paralevel/toggle-software-update-badge">Hide or show the Software Update badge in the Dock on macOS</a>
   <br>
