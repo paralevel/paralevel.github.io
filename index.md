@@ -31,8 +31,8 @@
 
 <sub>Sep 24, 2025</sub>
 
-[Apple app URL schemes for iOS and macOS](https://github.com/paralevel/apple-app-urls){: style="line-height: 1.5"}
-[Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls){: style="line-height: 1.5"}
-[Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls){: style="line-height: 1.5"}
+[Apple app URL schemes for iOS and macOS](https://github.com/paralevel/apple-app-urls){: style="line-height: 1.5"}<br>
+[Settings URL schemes for macOS](https://github.com/paralevel/macos-settings-urls){: style="line-height: 1.5"}<br>
+[Settings URL schemes for iOS](https://github.com/paralevel/ios-settings-urls){: style="line-height: 1.5"}<br>
 
 <br>
