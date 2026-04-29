@@ -1,6 +1,6 @@
 
 <sup>Apr 16, 2026</sup><br>
-[Modify protected files in macOS Terminal without having Full Disk Access](https://github.com/paralevel/unfull-disk-access-for-terminal)
+[Modify protected files in macOS Terminal without Full Disk Access](https://github.com/paralevel/useful-disk-access-for-terminal)
 <br>
 <br>
 <sup>Apr 12, 2026</sup><br>
