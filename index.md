@@ -1,4 +1,8 @@
 
+<sup>May 4, 2026</sup><br>
+[Shortcut for installing TTF and OTF fonts on iOS](https://github.com/paralevel/font-installer-shortcut)
+<br>
+<br>
 <sup>Apr 16, 2026</sup><br>
 [Modify protected files in macOS Terminal without Full Disk Access](https://github.com/paralevel/useful-disk-access-for-terminal)
 <br>
