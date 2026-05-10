@@ -1,4 +1,8 @@
 
+<sup>May 10, 2026</sup><br>
+[Shortcut for disabling the built-in camera on Apple devices](https://github.com/paralevel/camera-disabler-shortcut)
+<br>
+<br>
 <sup>May 4, 2026</sup><br>
 [Shortcut for installing TTF and OTF fonts on iOS](https://github.com/paralevel/font-installer-shortcut)
 <br>
