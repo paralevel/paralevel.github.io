@@ -8,7 +8,7 @@
 <br>
 <br>
 <sup>Apr 16, 2026</sup><br>
-[Modify protected files in macOS Terminal without Full Disk Access](https://github.com/paralevel/useful-disk-access-for-terminal)
+[Modify restricted files without granting Full Disk Access to Terminal](https://github.com/paralevel/useful-disk-access-for-terminal)
 <br>
 <br>
 <sup>Apr 12, 2026</sup><br>
@@ -30,7 +30,7 @@
 <br>
 <br>
 <sup>Oct 27, 2025</sup><br>
-[Bookmark Checker shortcut for iOS and macOS](https://github.com/paralevel/bmc)
+[Shortcut for checking if page is bookmarked on iOS and macOS](https://github.com/paralevel/bmc)
 <br>
 <br>
 <sup>Oct 1, 2025</sup><br>
