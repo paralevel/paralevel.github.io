@@ -4,7 +4,7 @@
 <br>
 <br>
 <sup>May 4, 2026</sup><br>
-[Shortcut for installing TTF and OTF fonts on iOS](https://github.com/paralevel/font-installer-shortcut)
+[Shortcut for installing TTF and OTF fonts on iOS](https://github.com/paralevel/font-installer)
 <br>
 <br>
 <sup>Apr 16, 2026</sup><br>
@@ -26,11 +26,11 @@
 <br>
 <br>
 <sup>Nov 2, 2025</sup><br>
-[Toggle Auto-Lock shortcut for iOS](https://github.com/paralevel/toggle-autolock-shortcut)
+[Toggle Auto-Lock shortcut for iOS](https://github.com/paralevel/toggle-autolock)
 <br>
 <br>
 <sup>Oct 27, 2025</sup><br>
-[Bookmark Checker shortcut for iOS and macOS](https://github.com/paralevel/bookmark-checker-shortcut)
+[Bookmark Checker shortcut for iOS and macOS](https://github.com/paralevel/bmc)
 <br>
 <br>
 <sup>Oct 1, 2025</sup><br>
