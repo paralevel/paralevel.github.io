@@ -30,7 +30,7 @@
 <br>
 <br>
 <sup>Oct 27, 2025</sup><br>
-[Shortcut for checking if page is bookmarked on iOS and macOS](https://github.com/paralevel/bookmarkchecker)
+[Shortcut for checking if page is bookmarked on iOS and macOS](https://github.com/paralevel/bookmarkcheck)
 <br>
 <br>
 <sup>Oct 1, 2025</sup><br>
