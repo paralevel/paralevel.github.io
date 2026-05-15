@@ -4,7 +4,7 @@
 <br>
 <br>
 <sup>May 4, 2026</sup><br>
-[Shortcut for installing TTF and OTF fonts on iOS](https://github.com/paralevel/font-installer)
+[Shortcut for installing TTF and OTF fonts on iOS](https://github.com/paralevel/font-installer-for-ios)
 <br>
 <br>
 <sup>Apr 16, 2026</sup><br>
